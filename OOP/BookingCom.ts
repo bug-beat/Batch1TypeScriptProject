@@ -103,8 +103,6 @@ class BookingComHomePage {
             "pool-Family Fun Resort-strict"
         ]
 
-
-
         let filteredProperties: string[] = [];
 
         for (let i = 0; i < listOfAmenitiesHotelsCancellation.length; i++) {
